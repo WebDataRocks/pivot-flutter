@@ -25,7 +25,7 @@ class _CustomizeCellState extends State<CustomizeCell> {
       WebViewController controller = await pivot.controller.future;
       pivot.on("reportcomplete", () async {
         await controller.runJavascript('''
-        flexmonster.customizeCell(customizeCellFunction);
+        webdatarocks.customizeCell(customizeCellFunction);
         function customizeCellFunction(cell, data) {
               if (data.type == "header" && data.hierarchy && data.hierarchy.caption == "Country" && data.member && data.member.properties) {
                 const name = data.member.properties.CurrencyID;

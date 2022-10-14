@@ -15,7 +15,7 @@ To run the sample project with Flutter, you will need Flutter 2.17.6 or higher. 
 1. Download the `.zip` archive with the sample project or clone it from GitHub with the following command:
 
 ```bash
-git clone https://github.com/flexmonster/pivot-flutter.git && cd pivot-flutter
+git clone https://github.com/webdatarocks/pivot-flutter.git && cd pivot-flutter
 ```
 
 2. Install Flutter dependencies:

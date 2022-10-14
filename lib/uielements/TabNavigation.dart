@@ -21,7 +21,7 @@ class TabNavigation extends StatelessWidget {
               appBar: AppBar(
                 backgroundColor: Color.fromARGB(255, 5, 152, 223),
                 foregroundColor: Color.fromARGB(255, 233, 233, 233),
-                title: const Text('Flutter Flexmonster'),
+                title: const Text('Flutter WebDataRocks'),
                 bottom: const TabBar(
                   indicatorColor: Color.fromARGB(255, 233, 233, 233),
                   tabs: [
