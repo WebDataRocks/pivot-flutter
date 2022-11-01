@@ -12,10 +12,11 @@ To run the sample project with Flutter, you will need Flutter 2.17.6 or higher. 
 
 ## Installation
 
-1. Download the `.zip` archive with the sample project or clone it from GitHub with the following command:
+1. Download the `.zip` archive with the sample project or clone it from GitHub with the following commands:
 
 ```bash
-git clone https://github.com/webdatarocks/pivot-flutter.git && cd pivot-flutter
+git clone https://github.com/webdatarocks/pivot-flutter.git
+cd pivot-flutter
 ```
 
 2. Install Flutter dependencies:
@@ -24,7 +25,9 @@ git clone https://github.com/webdatarocks/pivot-flutter.git && cd pivot-flutter
 dart pub get
 ``` 
 
-3. Open mobile device emulator.
+3. Open a mobile device emulator. Learn how to configure the emulator for each platform:
+   - [Android](https://docs.flutter.dev/get-started/install/windows#set-up-the-android-emulator)
+   - [iOS](https://docs.flutter.dev/get-started/install/macos#set-up-the-ios-simulator)
 
 4. Run the project:
 

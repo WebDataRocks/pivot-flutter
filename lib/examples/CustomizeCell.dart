@@ -21,10 +21,9 @@ class _CustomizeCellState extends State<CustomizeCell> {
   @override
   void initState() {
     super.initState();
-    WidgetsBinding.instance.addPostFrameCallback((_) async {
+    pivot.on("reportcomplete", () async {
       WebViewController controller = await pivot.controller.future;
-      pivot.on("reportcomplete", () async {
-        await controller.runJavascript('''
+      controller.runJavascript('''
         webdatarocks.customizeCell(customizeCellFunction);
         function customizeCellFunction(cell, data) {
               if (data.type == "header" && data.hierarchy && data.hierarchy.caption == "Country" && data.member && data.member.properties) {
@@ -48,7 +47,6 @@ class _CustomizeCellState extends State<CustomizeCell> {
               cell.text = `\${style}<div style="display:flex; align-items:center; font-size:12px; position:relative;">\${flag}<span style="margin-left: 2px; line-height: 16px;">\${data.member.caption}</span></div>`;
               }
         }''');
-      });
     });
   }
 
