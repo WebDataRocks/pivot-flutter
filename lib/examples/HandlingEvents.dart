@@ -37,14 +37,14 @@ final List<String> _eventListWithoutData = [
   "update"
 ];
 
-class UsingEvents extends StatefulWidget {
-  const UsingEvents({super.key});
+class HandlingEvents extends StatefulWidget {
+  const HandlingEvents({super.key});
 
   @override
-  State<UsingEvents> createState() => _UsingEventsState();
+  State<HandlingEvents> createState() => _HandlingEventsState();
 }
 
-class _UsingEventsState extends State<UsingEvents> {
+class _HandlingEventsState extends State<HandlingEvents> {
   Widget _lastLog = const Log(
     eventName: "...",
   );
