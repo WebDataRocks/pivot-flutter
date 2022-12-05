@@ -8,26 +8,24 @@ This repository holds the source code for a simple [Flutter](https://flutter.dev
 
 ## Prerequisites
 
-To run the sample project with Flutter, you will need Flutter 2.17.6 or higher. [Get it here](https://docs.flutter.dev/get-started/install) if it's not already installed on your machine.
+ - [Flutter 2.17.6 or greater](https://docs.flutter.dev/get-started/install)
+ - Internet connection
 
 ## Installation
 
-1. Download the `.zip` archive with the sample project or clone it from GitHub with the following commands:
+1. Download the sample project from GitHub with the following command:
 
 ```bash
-git clone https://github.com/webdatarocks/pivot-flutter.git
-cd pivot-flutter
+git clone https://github.com/webdatarocks/pivot-flutter.git && cd pivot-flutter
 ```
 
-2. Install Flutter dependencies:
+2. Install dependencies described in the `pubspec.yaml` file:
 
 ```
 dart pub get
 ``` 
 
-3. Open a mobile device emulator. Learn how to configure the emulator for each platform:
-   - [Android](https://docs.flutter.dev/get-started/install/windows#set-up-the-android-emulator)
-   - [iOS](https://docs.flutter.dev/get-started/install/macos#set-up-the-ios-simulator)
+3. Connect a mobile device.
 
 4. Run the project:
 
@@ -35,7 +33,7 @@ dart pub get
 flutter run
 ``` 
 
-The result will be displayed on your mobile device emulator.
+You can see the result on your mobile device.
 
 <!-- ## Usage
 
