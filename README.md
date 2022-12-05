@@ -13,10 +13,11 @@ This repository holds the source code for a simple [Flutter](https://flutter.dev
 
 ## Installation
 
-1. Download the sample project from GitHub with the following command:
+1. Download the sample project from GitHub with the following commands:
 
 ```bash
-git clone https://github.com/webdatarocks/pivot-flutter.git && cd pivot-flutter
+git clone https://github.com/webdatarocks/pivot-flutter.git
+cd pivot-flutter
 ```
 
 2. Install dependencies described in the `pubspec.yaml` file:
@@ -35,6 +36,6 @@ flutter run
 
 You can see the result on your mobile device.
 
-<!-- ## Usage
+## Usage
 
-For details on usage, refer to the [WebDataRocks integration with Flutter](https://www.webdatarocks.com/doc/integration-with-flutter/) tutorial. -->
+For details on usage, refer to the [WebDataRocks integration with Flutter](https://www.webdatarocks.com/doc/integration-with-flutter/) tutorial.
