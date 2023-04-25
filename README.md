@@ -4,7 +4,7 @@ Website: [www.webdatarocks.com](https://www.webdatarocks.com/)
 
 WebDataRocks Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON and CSV quickly and conveniently. WebDataRocks is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-This repository holds the source code for a simple [Flutter](https://flutter.dev/) and WebDataRocks Pivot Table & Charts project.
+This repository holds the source code for a simple [Flutter](https://flutter.dev/) and WebDataRocks Pivot Table project.
 
 ## Prerequisites
 
