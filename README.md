@@ -1,8 +1,8 @@
-# WebDataRocks Pivot Table & Charts integration with Flutter
+# WebDataRocks Pivot Table integration with Flutter
 Website: [www.webdatarocks.com](https://www.webdatarocks.com/)
-## WebDataRocks Pivot Table & Charts
+## WebDataRocks Pivot Table
 
-WebDataRocks Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. WebDataRocks is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
+WebDataRocks Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON and CSV quickly and conveniently. WebDataRocks is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
 This repository holds the source code for a simple [Flutter](https://flutter.dev/) and WebDataRocks Pivot Table & Charts project.
 
