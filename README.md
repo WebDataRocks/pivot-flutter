@@ -1,32 +1,28 @@
-# WebDataRocks Pivot Table integration with Flutter
-Website: [www.webdatarocks.com](https://www.webdatarocks.com/)
-## WebDataRocks Pivot Table
+# Example of integrating WebDataRocks with the Flutter framework
 
-WebDataRocks Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON and CSV quickly and conveniently. WebDataRocks is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
-
-This repository holds the source code for a simple [Flutter](https://flutter.dev/) and WebDataRocks Pivot Table project.
+This repository contains a sample project that shows how to integrate WebDataRocks with the [Flutter](https://flutter.dev/) framework.
 
 ## Prerequisites
 
- - [Flutter 2.17.6 or greater](https://docs.flutter.dev/get-started/install)
+ - [Flutter 2.17.6 or later](https://docs.flutter.dev/get-started/install)
  - Internet connection
 
-## Installation
+## Run the project
 
-1. Download the sample project from GitHub with the following commands:
+1. Download or clone this project from GitHub:
 
 ```bash
 git clone https://github.com/webdatarocks/pivot-flutter.git
 cd pivot-flutter
 ```
 
-2. Install dependencies described in the `pubspec.yaml` file:
+2. Install dependencies listed in the `pubspec.yaml` file:
 
-```
+```bash
 dart pub get
-``` 
+```
 
-3. Connect a mobile device.
+3. Open and connect a mobile device.
 
 4. Run the project:
 
@@ -34,8 +30,11 @@ dart pub get
 flutter run
 ``` 
 
-You can see the result on your mobile device.
+You can access the project on your mobile device.
 
-## Usage
+## Related docs
 
-For details on usage, refer to the [WebDataRocks integration with Flutter](https://www.webdatarocks.com/doc/integration-with-flutter/) tutorial.
+For details on how to integrate WebDataRocks into existing Flutter projects, check out the [integration with Flutter](https://www.webdatarocks.com/doc/integration-with-flutter/).
+
+## Support
+Feel free to ask WebDataRocks-related questions on [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
