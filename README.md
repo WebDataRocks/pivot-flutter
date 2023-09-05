@@ -1,6 +1,6 @@
 # Example of integrating WebDataRocks with the Flutter framework
 
-This repository contains a sample project that shows how to integrate WebDataRocks with the [Flutter](https://flutter.dev/) framework.
+This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/) with the [Flutter](https://flutter.dev/) framework.
 
 ## Prerequisites
 
