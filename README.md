@@ -26,7 +26,7 @@ dart pub get
 
 4. Run the project:
 
-```
+```bash
 flutter run
 ``` 
 
