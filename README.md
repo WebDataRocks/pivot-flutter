@@ -22,7 +22,7 @@ cd pivot-flutter
 dart pub get
 ```
 
-3. Open and connect a mobile device.
+3. Open and connect a mobile device. Learn how to configure [Android](https://docs.flutter.dev/get-started/install/windows/mobile) and [iOS](https://docs.flutter.dev/get-started/install/macos#ios-setup) devices.
 
 4. Run the project:
 
