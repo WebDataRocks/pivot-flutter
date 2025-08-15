@@ -1,6 +1,7 @@
 # Example of integrating WebDataRocks with the Flutter framework
+[![WebDataRocks](https://cdn.webdatarocks.com/readmes/flutter.png)](https://www.webdatarocks.com/?r=rm_flutter)
 
-This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/) with the [Flutter](https://flutter.dev/) framework.
+This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/?r=rm_flutter) with the [Flutter](https://flutter.dev/) framework.
 
 ## Prerequisites
 
@@ -34,8 +35,8 @@ You can access the project on your mobile device.
 
 ## Related docs
 
-For details on how to integrate WebDataRocks into existing Flutter projects, check out the [integration with Flutter](https://www.webdatarocks.com/doc/integration-with-flutter/).
+For details on how to integrate WebDataRocks into existing Flutter projects, check out the [integration with Flutter](https://www.webdatarocks.com/doc/integration-with-flutter/?r=rm_flutter).
 
 ## Support
 
-For WebDataRocks-related questions, bug reports and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
+For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
